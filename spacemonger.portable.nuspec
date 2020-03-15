@@ -54,7 +54,4 @@
       <dependency id="spacemonger.portable" version="[1.4.0]" />
     </dependencies>
   </metadata>
-  <files>
-    <file src="tools\**" target="tools" />
-  </files>
 </package>
