@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>spacemonger.portable</id>
+    <id>spacemonger</id>
     <version>1.4.0</version>
     <owners>stevenpickles</owners>
-    <title>SpaceMonger (Portable)</title>
+    <title>SpaceMonger</title>
     <authors>Sean Werkema</authors>
     <projectUrl>http://www.aplusfreeware.com/categories/LFWV/SpaceMonger.html</projectUrl>
     <iconUrl>https://i.imgur.com/jzap5p0.png</iconUrl>
     <copyright>1997-2000 Sean Werkema</copyright>
-    <licenseUrl>http://www.aplusfreeware.com/categories/LFWV/SpaceMonger.html</licenseUrl>
+    <licenseUrl>http://www.linfo.org/freeware.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!-- Project source is closed and so there is no project source URL -->
     <!--<projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>-->
