@@ -50,6 +50,9 @@
         - Minor changes to color palette to handle rollover boxes.
         - Added support for the Windows Property dialog box.
     </releaseNotes>
+    <dependencies>
+      <dependency id="spacemonger.portable" version="[1.4.0]" />
+    </dependencies>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
