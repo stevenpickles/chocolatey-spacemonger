@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>spacemonger</id>
-    <version>1.4.0</version>
+    <version>1.4.0.20220808</version>
     <owners>stevenpickles</owners>
     <title>SpaceMonger</title>
     <authors>Sean Werkema</authors>
